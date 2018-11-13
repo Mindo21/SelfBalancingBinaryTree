@@ -8,6 +8,7 @@ Static main example:
 Input:
 
 n - number of elements to insert into binary tree
+
 0 5 2 7 ... - n elements to be inserted into the tree
 
 
